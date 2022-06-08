@@ -93,9 +93,9 @@ Your shell will be compiled this way:
 gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh
 
 **AUTHORS**:
-[Cacious Lyangenda](https://www.linkedin.com/in/focusitstudio1) and
+[Cacious Lyangenda](https://www.linkedin.com/in/focusitstudio1) and [Ermiyas Asamin](https://www.linkedin.com/in/ermias-mesfin)
 
 ------------------------------------------------------------------------------
 
 **CONTACT US**
-[Cacious](https://www.twitter.com/FOCUSITSTUDIO1)
+[ [Cacious](https://www.twitter.com/FOCUSITSTUDIO1) ] and [ [Ermiyas Asamin](https://www.linkedin.com/in/ermias-mesfin) ]
